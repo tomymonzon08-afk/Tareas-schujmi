@@ -18,7 +18,7 @@ No valida si el token es válido o si está vencido.
 
 ## Por qué ocurre / por qué importa
 - Un token vencido o manipulado igual deja pasar al usuario a la pantalla protegida.
-- El error recién se descubre cuando se hace el primer fetch y el backend responde 401 (lo cual además dispara el redirect agresivo descrito en `conexion/03`).
+- El error recién se descubre cuando se hace el primer fetch y el backend responde 401 (lo cual además dispara el redirect agresivo descrito en `conexion/02`).
 - Es una validación de seguridad superficial (aunque la validación real siempre debe ocurrir en el backend).
 
 ## Solución propuesta

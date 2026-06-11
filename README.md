@@ -12,10 +12,6 @@ Dentro de cada carpeta, los archivos están **numerados por importancia** (`01-`
 
 ## Resumen por prioridad
 
-### 🔴 Críticos (rompen el funcionamiento)
-- [backend/01 — schema.prisma desincronizado con la migración](./backend/01-schema-prisma-desincronizado.md)
-- [conexion/01 — configuración de entorno, prefijo `/v1` y CORS](./conexion/01-configuracion-env-cors-y-v1.md)
-
 ### 🟠 Importantes (lógica / UX)
 - [frontend/01 — `useState` usado en lugar de `useEffect`](./frontend/01-usestate-en-lugar-de-useeffect.md)
 - [frontend/02 — navegación entre páginas rota](./frontend/02-navegacion-rota.md)

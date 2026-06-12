@@ -11,12 +11,3 @@ Las tareas están organizadas en 3 carpetas según el área:
 Dentro de cada carpeta, los archivos están **numerados por importancia** (`01-` = más importante).
 
 ## Resumen por prioridad
-
-
-### 🟡 Menores (code smells / mejoras)
-- [backend/04 — `findById` incluye `proyectos` en el perfil](./backend/04-findbyid-include-proyectos.md)
-- [backend/05 — utils `bcrypt.js` sin usar](./backend/05-bcrypt-utils-sin-usar.md)
-- [backend/06 — código muerto en `errorHandler`](./backend/06-errorhandler-codigo-muerto.md)
-- [backend/07 — `exposedHeaders: Authorization` innecesario](./backend/07-exposedheaders-innecesario.md)
-</content>
-</invoke>

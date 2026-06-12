@@ -14,8 +14,6 @@ Dentro de cada carpeta, los archivos están **numerados por importancia** (`01-`
 
 
 ### 🟡 Menores (code smells / mejoras)
-- [frontend/03 — `ProtectedRoute` no valida el token](./frontend/03-protectedroute-no-valida.md)
-- [frontend/04 — `logout` definido pero sin usar](./frontend/04-logout-sin-usar.md)
 - [frontend/05 — favicon inexistente (`/vite.svg`)](./frontend/05-favicon-inexistente.md)
 - [frontend/06 — funcionalidades incompletas](./frontend/06-funcionalidades-incompletas.md)
 - [conexion/03 — `getHealth` ignora el `base` de producción](./conexion/03-gethealth-base-produccion.md)

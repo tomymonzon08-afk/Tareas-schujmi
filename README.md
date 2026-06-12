@@ -12,10 +12,6 @@ Dentro de cada carpeta, los archivos están **numerados por importancia** (`01-`
 
 ## Resumen por prioridad
 
-### 🟠 Importantes (lógica / UX)
-- [frontend/01 — `useState` usado en lugar de `useEffect`](./frontend/01-usestate-en-lugar-de-useeffect.md)
-- [frontend/02 — navegación entre páginas rota](./frontend/02-navegacion-rota.md)
-- [conexion/02 — el manejo de 401 trata un login fallido como sesión expirada](./conexion/02-manejo-401-login.md)
 
 ### 🟡 Menores (code smells / mejoras)
 - [frontend/03 — `ProtectedRoute` no valida el token](./frontend/03-protectedroute-no-valida.md)
